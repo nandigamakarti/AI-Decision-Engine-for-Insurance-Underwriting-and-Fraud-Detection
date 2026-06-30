@@ -1,0 +1,17 @@
+{
+  "customer_id": "CUST_REG_007",
+  "zip_code": "380001",
+  "city": "Ahmedabad",
+  "state": "GJ",
+  "county": "Los Angeles",
+  "nearest_hospital_km": 5.2,
+  "hospitals_within_25km": 15,
+  "specialists_available": true,
+  "air_quality_index": 125,
+  "natural_disaster_zone": true,
+  "disaster_type": "Earthquake",
+  "median_income_area": 48000,
+  "crime_rate_per_1000": 42.5,
+  "unemployment_rate": 8.5,
+  "healthcare_cost_index": 142
+}

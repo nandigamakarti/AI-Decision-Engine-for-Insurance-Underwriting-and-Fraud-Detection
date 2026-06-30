@@ -1,0 +1,16 @@
+{
+    "customer_id": "CUST_FIN_004",
+    "annual_income": 62000,
+    "income_stability": "Stable",
+    "employment_status": "Employed",
+    "years_employed": 3,
+    "credit_score": 625,
+    "credit_history_length": 5,
+    "total_debt": 48000,
+    "debt_to_income_ratio": 0.77,
+    "mortgage_status": "Rent",
+    "liquid_assets": 3500,
+    "total_assets": 28000,
+    "bankruptcy_history": false,
+    "late_payments_12mo": 2
+}

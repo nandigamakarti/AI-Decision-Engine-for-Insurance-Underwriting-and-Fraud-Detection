@@ -1,0 +1,16 @@
+{
+    "customer_id": "CUST_AGT_003",
+    "agent_id": "AGT_1003",
+    "agent_name": "Digital Sales Platform",
+    "agent_license_number": "AGT-TX-11111",
+    "years_licensed": 3,
+    "total_policies_sold": 1250,
+    "policies_sold_12mo": 420,
+    "lapse_rate": 18.5,
+    "compliance_violations": 1,
+    "active_complaints": 2,
+    "distribution_channel": "Online",
+    "fraud_investigations": 0,
+    "fraud_confirmed_cases": 0,
+    "agent_risk_score": 42
+}

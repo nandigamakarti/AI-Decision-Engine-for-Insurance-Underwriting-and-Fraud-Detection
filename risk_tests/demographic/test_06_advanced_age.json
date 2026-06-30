@@ -1,0 +1,18 @@
+{
+    "customer_id": "CUST_DEM_006",
+    "first_name": "Savitri",
+    "last_name": "Rao",
+    "date_of_birth": "1950-02-14",
+    "age": 74,
+    "gender": "Female",
+    "smoking_status": "Never",
+    "alcohol_consumption": "None",
+    "exercise_frequency": "Light",
+    "education_level": "Bachelor",
+    "occupation": "Retired Teacher",
+    "marital_status": "Widowed",
+    "household_size": 1,
+    "dependents": 0,
+    "zip_code": "700001",
+    "state": "WB"
+}

@@ -1,0 +1,16 @@
+{
+    "customer_id": "CUST_FIN_009",
+    "annual_income": 125000,
+    "income_stability": "Variable",
+    "employment_status": "Self-Employed",
+    "years_employed": 8,
+    "credit_score": 745,
+    "credit_history_length": 15,
+    "total_debt": 62000,
+    "debt_to_income_ratio": 0.50,
+    "mortgage_status": "Mortgage",
+    "liquid_assets": 45000,
+    "total_assets": 320000,
+    "bankruptcy_history": false,
+    "late_payments_12mo": 0
+}

@@ -1,0 +1,17 @@
+{
+  "customer_id": "CUST_REG_010",
+  "zip_code": "695001",
+  "city": "Trivandrum",
+  "state": "KL",
+  "county": "Maricopa",
+  "nearest_hospital_km": 58.0,
+  "hospitals_within_25km": 0,
+  "specialists_available": false,
+  "air_quality_index": 165,
+  "natural_disaster_zone": true,
+  "disaster_type": "Flood",
+  "median_income_area": 35000,
+  "crime_rate_per_1000": 48.5,
+  "unemployment_rate": 11.8,
+  "healthcare_cost_index": 168
+}

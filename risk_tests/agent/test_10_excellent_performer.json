@@ -1,0 +1,16 @@
+{
+    "customer_id": "CUST_AGT_010",
+    "agent_id": "AGT_1010",
+    "agent_name": "Karan Malhotra",
+    "agent_license_number": "AGT-MA-66778",
+    "years_licensed": 15,
+    "total_policies_sold": 1520,
+    "policies_sold_12mo": 145,
+    "lapse_rate": 3.8,
+    "compliance_violations": 0,
+    "active_complaints": 0,
+    "distribution_channel": "Captive",
+    "fraud_investigations": 0,
+    "fraud_confirmed_cases": 0,
+    "agent_risk_score": 5
+}

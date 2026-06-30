@@ -1,0 +1,18 @@
+{
+    "customer_id": "CUST_DEM_001",
+    "first_name": "Ananya",
+    "last_name": "Iyer",
+    "date_of_birth": "1995-03-20",
+    "age": 29,
+    "gender": "Female",
+    "smoking_status": "Never",
+    "alcohol_consumption": "None",
+    "exercise_frequency": "Active",
+    "education_level": "Master",
+    "occupation": "Data Scientist",
+    "marital_status": "Single",
+    "household_size": 1,
+    "dependents": 0,
+    "zip_code": "400001",
+    "state": "MH"
+}

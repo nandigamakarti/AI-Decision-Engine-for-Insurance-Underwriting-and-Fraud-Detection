@@ -1,0 +1,20 @@
+{
+    "customer_id": "CUST_MED_009",
+    "conditions": [],
+    "current_medications": [],
+    "past_procedures": [
+        {
+            "cpt_code": "29881",
+            "description": "Knee arthroscopy",
+            "procedure_date": "2022-03-15"
+        }
+    ],
+    "height_cm": 183,
+    "weight_kg": 78,
+    "bmi": 23.3,
+    "blood_pressure_systolic": 115,
+    "blood_pressure_diastolic": 72,
+    "family_history_cancer": true,
+    "family_history_heart_disease": true,
+    "family_history_diabetes": false
+}

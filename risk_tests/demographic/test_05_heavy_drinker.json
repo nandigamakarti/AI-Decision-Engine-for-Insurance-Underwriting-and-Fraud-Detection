@@ -1,0 +1,18 @@
+{
+    "customer_id": "CUST_DEM_005",
+    "first_name": "Lakshmi",
+    "last_name": "Krishnan",
+    "date_of_birth": "1965-09-10",
+    "age": 59,
+    "gender": "Female",
+    "smoking_status": "Never",
+    "alcohol_consumption": "Heavy",
+    "exercise_frequency": "Sedentary",
+    "education_level": "Bachelor",
+    "occupation": "Accountant",
+    "marital_status": "Married",
+    "household_size": 2,
+    "dependents": 0,
+    "zip_code": "560001",
+    "state": "KA"
+}

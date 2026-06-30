@@ -1,0 +1,18 @@
+{
+    "customer_id": "CUST_DEM_003",
+    "first_name": "Suresh",
+    "last_name": "Menon",
+    "date_of_birth": "1968-11-30",
+    "age": 56,
+    "gender": "Male",
+    "smoking_status": "Former",
+    "alcohol_consumption": "Moderate",
+    "exercise_frequency": "Light",
+    "education_level": "Bachelor",
+    "occupation": "Financial Advisor",
+    "marital_status": "Married",
+    "household_size": 2,
+    "dependents": 0,
+    "zip_code": "600001",
+    "state": "TN"
+}

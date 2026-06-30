@@ -1,0 +1,16 @@
+{
+    "customer_id": "CUST_AGT_001",
+    "agent_id": "AGT_1001",
+    "agent_name": "Priya Sharma",
+    "agent_license_number": "AGT-CA-98765",
+    "years_licensed": 12,
+    "total_policies_sold": 850,
+    "policies_sold_12mo": 95,
+    "lapse_rate": 5.2,
+    "compliance_violations": 0,
+    "active_complaints": 0,
+    "distribution_channel": "Broker",
+    "fraud_investigations": 0,
+    "fraud_confirmed_cases": 0,
+    "agent_risk_score": 8
+}

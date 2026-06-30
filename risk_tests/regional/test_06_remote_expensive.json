@@ -1,0 +1,17 @@
+{
+  "customer_id": "CUST_REG_006",
+  "zip_code": "700001",
+  "city": "Kolkata",
+  "state": "WB",
+  "county": "Anchorage",
+  "nearest_hospital_km": 12.5,
+  "hospitals_within_25km": 3,
+  "specialists_available": true,
+  "air_quality_index": 32,
+  "natural_disaster_zone": true,
+  "disaster_type": "Earthquake",
+  "median_income_area": 78000,
+  "crime_rate_per_1000": 28.5,
+  "unemployment_rate": 6.2,
+  "healthcare_cost_index": 155
+}

@@ -1,0 +1,14 @@
+{
+    "customer_id": "CUST_MED_001",
+    "conditions": [],
+    "current_medications": [],
+    "past_procedures": [],
+    "height_cm": 175,
+    "weight_kg": 72,
+    "bmi": 23.5,
+    "blood_pressure_systolic": 118,
+    "blood_pressure_diastolic": 76,
+    "family_history_cancer": false,
+    "family_history_heart_disease": false,
+    "family_history_diabetes": false
+}

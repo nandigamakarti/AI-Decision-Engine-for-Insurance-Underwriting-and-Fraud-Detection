@@ -1,0 +1,39 @@
+{
+    "customer_id": "CUST_MED_006",
+    "conditions": [
+        {
+            "icd10_code": "C50.919",
+            "description": "Breast cancer",
+            "diagnosed_date": "2020-06-15",
+            "treatment_status": "Resolved"
+        }
+    ],
+    "current_medications": [
+        {
+            "ndc_code": "00310-0758-60",
+            "name": "Tamoxifen",
+            "dosage": "20mg",
+            "frequency": "Daily"
+        }
+    ],
+    "past_procedures": [
+        {
+            "cpt_code": "19301",
+            "description": "Mastectomy",
+            "procedure_date": "2020-08-20"
+        },
+        {
+            "cpt_code": "77427",
+            "description": "Radiation therapy",
+            "procedure_date": "2020-10-15"
+        }
+    ],
+    "height_cm": 162,
+    "weight_kg": 65,
+    "bmi": 24.8,
+    "blood_pressure_systolic": 125,
+    "blood_pressure_diastolic": 80,
+    "family_history_cancer": true,
+    "family_history_heart_disease": false,
+    "family_history_diabetes": false
+}

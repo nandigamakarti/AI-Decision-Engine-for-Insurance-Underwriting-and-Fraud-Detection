@@ -1,0 +1,18 @@
+{
+    "customer_id": "CUST_DEM_002",
+    "first_name": "Rohan",
+    "last_name": "Verma",
+    "date_of_birth": "1980-07-15",
+    "age": 44,
+    "gender": "Male",
+    "smoking_status": "Never",
+    "alcohol_consumption": "Moderate",
+    "exercise_frequency": "Moderate",
+    "education_level": "Bachelor",
+    "occupation": "Marketing Manager",
+    "marital_status": "Married",
+    "household_size": 4,
+    "dependents": 2,
+    "zip_code": "110001",
+    "state": "DL"
+}

@@ -1,0 +1,16 @@
+{
+  "customer_id": "CUST_REG_008",
+  "zip_code": "411001",
+  "city": "Pune",
+  "state": "MH",
+  "county": "Otero",
+  "nearest_hospital_km": 35.0,
+  "hospitals_within_25km": 1,
+  "specialists_available": false,
+  "air_quality_index": 48,
+  "natural_disaster_zone": false,
+  "median_income_area": 42000,
+  "crime_rate_per_1000": 18.5,
+  "unemployment_rate": 9.2,
+  "healthcare_cost_index": 92
+}

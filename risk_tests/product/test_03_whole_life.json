@@ -1,0 +1,14 @@
+{
+    "customer_id": "CUST_PRD_003",
+    "product_type": "Whole Life",
+    "coverage_amount": 300000,
+    "premium_amount": 2850,
+    "policy_term_years": 40,
+    "underwriting_class": "Standard",
+    "loading_percentage": 10,
+    "exclusions": [],
+    "loss_ratio_expected": 72,
+    "profit_margin": 10,
+    "sum_assured_to_income_ratio": 4.5,
+    "affordability_score": 68
+}

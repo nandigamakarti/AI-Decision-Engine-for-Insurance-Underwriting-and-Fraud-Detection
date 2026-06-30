@@ -1,0 +1,21 @@
+{
+    "customer_id": "CUST_PRD_007",
+    "product_type": "Health",
+    "coverage_amount": 500000,
+    "premium_amount": 3200,
+    "policy_term_years": 10,
+    "underwriting_class": "Substandard",
+    "loading_percentage": 120,
+    "exclusions": [
+        "Pre-existing diabetes",
+        "Hypertension",
+        "Obesity-related conditions",
+        "Sleep apnea",
+        "Joint replacements",
+        "Mental health conditions"
+    ],
+    "loss_ratio_expected": 92,
+    "profit_margin": 3,
+    "sum_assured_to_income_ratio": 8.2,
+    "affordability_score": 35
+}

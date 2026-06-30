@@ -1,0 +1,18 @@
+{
+    "customer_id": "CUST_DEM_008",
+    "first_name": "Divya",
+    "last_name": "Pillai",
+    "date_of_birth": "1988-04-18",
+    "age": 36,
+    "gender": "Female",
+    "smoking_status": "Never",
+    "alcohol_consumption": "None",
+    "exercise_frequency": "Active",
+    "education_level": "Doctorate",
+    "occupation": "Research Scientist",
+    "marital_status": "Married",
+    "household_size": 3,
+    "dependents": 1,
+    "zip_code": "682001",
+    "state": "KL"
+}

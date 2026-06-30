@@ -1,0 +1,46 @@
+{
+    "customer_id": "CUST_MED_004",
+    "conditions": [
+        {
+            "icd10_code": "J45.909",
+            "description": "Asthma",
+            "diagnosed_date": "2015-03-12",
+            "treatment_status": "Active"
+        },
+        {
+            "icd10_code": "J30.1",
+            "description": "Allergic rhinitis",
+            "diagnosed_date": "2016-06-08",
+            "treatment_status": "Active"
+        }
+    ],
+    "current_medications": [
+        {
+            "ndc_code": "00173-0682-00",
+            "name": "Albuterol Inhaler",
+            "dosage": "90mcg",
+            "frequency": "As needed"
+        },
+        {
+            "ndc_code": "00085-1287-01",
+            "name": "Fluticasone",
+            "dosage": "50mcg",
+            "frequency": "Twice daily"
+        },
+        {
+            "ndc_code": "50580-0506-01",
+            "name": "Cetirizine",
+            "dosage": "10mg",
+            "frequency": "Daily"
+        }
+    ],
+    "past_procedures": [],
+    "height_cm": 165,
+    "weight_kg": 68,
+    "bmi": 25.0,
+    "blood_pressure_systolic": 122,
+    "blood_pressure_diastolic": 78,
+    "family_history_cancer": false,
+    "family_history_heart_disease": false,
+    "family_history_diabetes": false
+}

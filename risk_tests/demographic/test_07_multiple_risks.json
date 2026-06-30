@@ -1,0 +1,18 @@
+{
+    "customer_id": "CUST_DEM_007",
+    "first_name": "Manoj",
+    "last_name": "Joshi",
+    "date_of_birth": "1972-12-05",
+    "age": 52,
+    "gender": "Male",
+    "smoking_status": "Current",
+    "alcohol_consumption": "Heavy",
+    "exercise_frequency": "Sedentary",
+    "education_level": "High School",
+    "occupation": "Truck Driver",
+    "marital_status": "Married",
+    "household_size": 3,
+    "dependents": 1,
+    "zip_code": "380001",
+    "state": "GJ"
+}

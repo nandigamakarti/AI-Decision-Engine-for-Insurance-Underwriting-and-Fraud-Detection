@@ -1,0 +1,16 @@
+{
+    "customer_id": "CUST_AGT_004",
+    "agent_id": "AGT_1004",
+    "agent_name": "Amit Patel",
+    "agent_license_number": "AGT-FL-33445",
+    "years_licensed": 7,
+    "total_policies_sold": 520,
+    "policies_sold_12mo": 45,
+    "lapse_rate": 16.8,
+    "compliance_violations": 3,
+    "active_complaints": 4,
+    "distribution_channel": "Broker",
+    "fraud_investigations": 0,
+    "fraud_confirmed_cases": 0,
+    "agent_risk_score": 58
+}

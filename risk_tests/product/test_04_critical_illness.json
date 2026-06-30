@@ -1,0 +1,16 @@
+{
+    "customer_id": "CUST_PRD_004",
+    "product_type": "Critical Illness",
+    "coverage_amount": 200000,
+    "premium_amount": 1850,
+    "policy_term_years": 15,
+    "underwriting_class": "Standard",
+    "loading_percentage": 25,
+    "exclusions": [
+        "Pre-existing heart condition"
+    ],
+    "loss_ratio_expected": 78,
+    "profit_margin": 8,
+    "sum_assured_to_income_ratio": 3.8,
+    "affordability_score": 65
+}

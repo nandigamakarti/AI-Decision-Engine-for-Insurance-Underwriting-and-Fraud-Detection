@@ -1,0 +1,17 @@
+{
+    "customer_id": "CUST_PRD_008",
+    "product_type": "Disability",
+    "coverage_amount": 180000,
+    "premium_amount": 2400,
+    "policy_term_years": 20,
+    "underwriting_class": "Standard",
+    "loading_percentage": 20,
+    "exclusions": [
+        "Back injuries",
+        "Mental health"
+    ],
+    "loss_ratio_expected": 75,
+    "profit_margin": 9,
+    "sum_assured_to_income_ratio": 2.8,
+    "affordability_score": 70
+}

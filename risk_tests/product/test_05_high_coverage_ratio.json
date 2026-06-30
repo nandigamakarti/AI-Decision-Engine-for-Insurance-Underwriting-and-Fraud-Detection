@@ -1,0 +1,17 @@
+{
+    "customer_id": "CUST_PRD_005",
+    "product_type": "Term Life",
+    "coverage_amount": 1200000,
+    "premium_amount": 2850,
+    "policy_term_years": 30,
+    "underwriting_class": "Substandard",
+    "loading_percentage": 55,
+    "exclusions": [
+        "Diabetes complications",
+        "Cardiovascular events"
+    ],
+    "loss_ratio_expected": 82,
+    "profit_margin": 6,
+    "sum_assured_to_income_ratio": 11.5,
+    "affordability_score": 58
+}

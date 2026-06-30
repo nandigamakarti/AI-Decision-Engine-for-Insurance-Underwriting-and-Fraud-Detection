@@ -1,0 +1,18 @@
+{
+    "customer_id": "CUST_DEM_010",
+    "first_name": "Kamala",
+    "last_name": "Nambiar",
+    "date_of_birth": "1945-06-30",
+    "age": 79,
+    "gender": "Female",
+    "smoking_status": "Former",
+    "alcohol_consumption": "None",
+    "exercise_frequency": "Sedentary",
+    "education_level": "Bachelor",
+    "occupation": "Retired Nurse",
+    "marital_status": "Widowed",
+    "household_size": 1,
+    "dependents": 0,
+    "zip_code": "695001",
+    "state": "KL"
+}

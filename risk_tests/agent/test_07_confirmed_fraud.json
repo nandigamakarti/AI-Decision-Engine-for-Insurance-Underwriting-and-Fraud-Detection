@@ -1,0 +1,16 @@
+{
+    "customer_id": "CUST_AGT_007",
+    "agent_id": "AGT_1007",
+    "agent_name": "Kavita Desai",
+    "agent_license_number": "AGT-OH-99001",
+    "years_licensed": 6,
+    "total_policies_sold": 410,
+    "policies_sold_12mo": 12,
+    "lapse_rate": 28.3,
+    "compliance_violations": 8,
+    "active_complaints": 6,
+    "distribution_channel": "Direct",
+    "fraud_investigations": 3,
+    "fraud_confirmed_cases": 1,
+    "agent_risk_score": 92
+}

@@ -1,0 +1,14 @@
+{
+    "customer_id": "CUST_PRD_010",
+    "product_type": "Critical Illness",
+    "coverage_amount": 1000000,
+    "premium_amount": 4200,
+    "policy_term_years": 15,
+    "underwriting_class": "Preferred",
+    "loading_percentage": 0,
+    "exclusions": [],
+    "loss_ratio_expected": 58,
+    "profit_margin": 18,
+    "sum_assured_to_income_ratio": 5.5,
+    "affordability_score": 80
+}

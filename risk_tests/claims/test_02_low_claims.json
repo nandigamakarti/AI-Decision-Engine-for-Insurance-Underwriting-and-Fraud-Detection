@@ -1,0 +1,22 @@
+{
+    "customer_id": "CUST_CLM_002",
+    "total_claims_count": 3,
+    "claims_last_12mo": 1,
+    "claims_last_36mo": 2,
+    "total_claims_amount": 4500,
+    "average_claim_amount": 1500,
+    "highest_single_claim": 2000,
+    "claim_frequency_trend": "Stable",
+    "recent_claims": [
+        {
+            "claim_id": "CLM_2001",
+            "claim_date": "2024-09-15",
+            "claim_type": "Medical",
+            "claim_amount": 2000,
+            "approved_amount": 1800,
+            "status": "Approved"
+        }
+    ],
+    "suspicious_patterns_detected": false,
+    "fraud_score": 12
+}

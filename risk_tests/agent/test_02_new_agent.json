@@ -1,0 +1,16 @@
+{
+    "customer_id": "CUST_AGT_002",
+    "agent_id": "AGT_1002",
+    "agent_name": "Rajesh Kumar",
+    "agent_license_number": "AGT-NY-45678",
+    "years_licensed": 1,
+    "total_policies_sold": 8,
+    "policies_sold_12mo": 8,
+    "lapse_rate": 12.5,
+    "compliance_violations": 0,
+    "active_complaints": 0,
+    "distribution_channel": "Direct",
+    "fraud_investigations": 0,
+    "fraud_confirmed_cases": 0,
+    "agent_risk_score": 25
+}

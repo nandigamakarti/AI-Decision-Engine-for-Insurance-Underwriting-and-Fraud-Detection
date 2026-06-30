@@ -1,0 +1,18 @@
+{
+    "customer_id": "CUST_DEM_004",
+    "first_name": "Anil",
+    "last_name": "Gupta",
+    "date_of_birth": "1974-05-22",
+    "age": 50,
+    "gender": "Male",
+    "smoking_status": "Current",
+    "alcohol_consumption": "Moderate",
+    "exercise_frequency": "Light",
+    "education_level": "High School",
+    "occupation": "Construction Manager",
+    "marital_status": "Divorced",
+    "household_size": 1,
+    "dependents": 1,
+    "zip_code": "500001",
+    "state": "TS"
+}

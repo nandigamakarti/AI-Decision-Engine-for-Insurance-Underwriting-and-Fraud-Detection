@@ -1,0 +1,38 @@
+{
+    "customer_id": "CUST_CLM_006",
+    "total_claims_count": 9,
+    "claims_last_12mo": 3,
+    "claims_last_36mo": 7,
+    "total_claims_amount": 32000,
+    "average_claim_amount": 3555,
+    "highest_single_claim": 8000,
+    "claim_frequency_trend": "Stable",
+    "recent_claims": [
+        {
+            "claim_id": "CLM_6001",
+            "claim_date": "2024-10-15",
+            "claim_type": "Medical",
+            "claim_amount": 5000,
+            "approved_amount": 0,
+            "status": "Denied"
+        },
+        {
+            "claim_id": "CLM_6002",
+            "claim_date": "2024-08-05",
+            "claim_type": "Medical",
+            "claim_amount": 4500,
+            "approved_amount": 0,
+            "status": "Denied"
+        },
+        {
+            "claim_id": "CLM_6003",
+            "claim_date": "2024-06-18",
+            "claim_type": "Medical",
+            "claim_amount": 3800,
+            "approved_amount": 0,
+            "status": "Denied"
+        }
+    ],
+    "suspicious_patterns_detected": false,
+    "fraud_score": 42
+}

@@ -1,0 +1,28 @@
+{
+    "customer_id": "CUST_MED_002",
+    "conditions": [
+        {
+            "icd10_code": "I10",
+            "description": "Essential hypertension",
+            "diagnosed_date": "2020-05-15",
+            "treatment_status": "Controlled"
+        }
+    ],
+    "current_medications": [
+        {
+            "ndc_code": "00093-7169-01",
+            "name": "Lisinopril",
+            "dosage": "10mg",
+            "frequency": "Daily"
+        }
+    ],
+    "past_procedures": [],
+    "height_cm": 180,
+    "weight_kg": 85,
+    "bmi": 26.2,
+    "blood_pressure_systolic": 132,
+    "blood_pressure_diastolic": 84,
+    "family_history_cancer": false,
+    "family_history_heart_disease": true,
+    "family_history_diabetes": false
+}

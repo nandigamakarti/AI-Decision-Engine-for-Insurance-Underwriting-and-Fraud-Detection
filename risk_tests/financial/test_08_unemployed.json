@@ -1,0 +1,16 @@
+{
+    "customer_id": "CUST_FIN_008",
+    "annual_income": 0,
+    "income_stability": "Unstable",
+    "employment_status": "Unemployed",
+    "years_employed": 0,
+    "credit_score": 485,
+    "credit_history_length": 4,
+    "total_debt": 35000,
+    "debt_to_income_ratio": 0,
+    "mortgage_status": "Rent",
+    "liquid_assets": 5000,
+    "total_assets": 12000,
+    "bankruptcy_history": false,
+    "late_payments_12mo": 5
+}

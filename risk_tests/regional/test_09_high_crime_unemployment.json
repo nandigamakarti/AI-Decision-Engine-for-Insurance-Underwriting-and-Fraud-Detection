@@ -1,0 +1,16 @@
+{
+  "customer_id": "CUST_REG_009",
+  "zip_code": "682001",
+  "city": "Kochi",
+  "state": "KL",
+  "county": "Wayne",
+  "nearest_hospital_km": 6.8,
+  "hospitals_within_25km": 10,
+  "specialists_available": true,
+  "air_quality_index": 72,
+  "natural_disaster_zone": false,
+  "median_income_area": 38000,
+  "crime_rate_per_1000": 52.8,
+  "unemployment_rate": 12.5,
+  "healthcare_cost_index": 105
+}

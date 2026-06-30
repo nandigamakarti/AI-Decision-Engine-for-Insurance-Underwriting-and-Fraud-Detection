@@ -1,0 +1,58 @@
+{
+    "customer_id": "CUST_MED_005",
+    "conditions": [
+        {
+            "icd10_code": "I25.10",
+            "description": "Coronary artery disease",
+            "diagnosed_date": "2018-11-22",
+            "treatment_status": "Active"
+        },
+        {
+            "icd10_code": "I10",
+            "description": "Essential hypertension",
+            "diagnosed_date": "2017-04-15",
+            "treatment_status": "Controlled"
+        }
+    ],
+    "current_medications": [
+        {
+            "ndc_code": "00093-7169-01",
+            "name": "Lisinopril",
+            "dosage": "20mg",
+            "frequency": "Daily"
+        },
+        {
+            "ndc_code": "00071-0156-23",
+            "name": "Atorvastatin",
+            "dosage": "40mg",
+            "frequency": "Daily"
+        },
+        {
+            "ndc_code": "00093-2063-01",
+            "name": "Aspirin",
+            "dosage": "81mg",
+            "frequency": "Daily"
+        },
+        {
+            "ndc_code": "00378-6391-93",
+            "name": "Metoprolol",
+            "dosage": "50mg",
+            "frequency": "Twice daily"
+        }
+    ],
+    "past_procedures": [
+        {
+            "cpt_code": "92928",
+            "description": "Coronary angioplasty with stent placement",
+            "procedure_date": "2019-01-10"
+        }
+    ],
+    "height_cm": 178,
+    "weight_kg": 95,
+    "bmi": 30.0,
+    "blood_pressure_systolic": 142,
+    "blood_pressure_diastolic": 92,
+    "family_history_cancer": false,
+    "family_history_heart_disease": true,
+    "family_history_diabetes": true
+}

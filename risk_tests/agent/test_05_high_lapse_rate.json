@@ -1,0 +1,16 @@
+{
+    "customer_id": "CUST_AGT_005",
+    "agent_id": "AGT_1005",
+    "agent_name": "Sneha Reddy",
+    "agent_license_number": "AGT-IL-77889",
+    "years_licensed": 5,
+    "total_policies_sold": 380,
+    "policies_sold_12mo": 62,
+    "lapse_rate": 24.5,
+    "compliance_violations": 2,
+    "active_complaints": 1,
+    "distribution_channel": "Direct",
+    "fraud_investigations": 0,
+    "fraud_confirmed_cases": 0,
+    "agent_risk_score": 52
+}

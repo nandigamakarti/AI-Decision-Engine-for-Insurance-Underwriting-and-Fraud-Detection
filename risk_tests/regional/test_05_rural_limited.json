@@ -1,0 +1,16 @@
+{
+  "customer_id": "CUST_REG_005",
+  "zip_code": "500001",
+  "city": "Hyderabad",
+  "state": "TS",
+  "county": "Gallatin",
+  "nearest_hospital_km": 8.5,
+  "hospitals_within_25km": 2,
+  "specialists_available": false,
+  "air_quality_index": 28,
+  "natural_disaster_zone": false,
+  "median_income_area": 58000,
+  "crime_rate_per_1000": 8.2,
+  "unemployment_rate": 3.5,
+  "healthcare_cost_index": 98
+}

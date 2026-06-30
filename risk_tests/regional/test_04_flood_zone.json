@@ -1,0 +1,17 @@
+{
+  "customer_id": "CUST_REG_004",
+  "zip_code": "600001",
+  "city": "Chennai",
+  "state": "TN",
+  "county": "Orleans",
+  "nearest_hospital_km": 4.5,
+  "hospitals_within_25km": 8,
+  "specialists_available": true,
+  "air_quality_index": 62,
+  "natural_disaster_zone": true,
+  "disaster_type": "Flood",
+  "median_income_area": 52000,
+  "crime_rate_per_1000": 35.5,
+  "unemployment_rate": 7.8,
+  "healthcare_cost_index": 115
+}

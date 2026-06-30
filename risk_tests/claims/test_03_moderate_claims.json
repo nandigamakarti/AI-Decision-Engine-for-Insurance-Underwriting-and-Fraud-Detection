@@ -1,0 +1,30 @@
+{
+    "customer_id": "CUST_CLM_003",
+    "total_claims_count": 8,
+    "claims_last_12mo": 2,
+    "claims_last_36mo": 6,
+    "total_claims_amount": 18500,
+    "average_claim_amount": 2312,
+    "highest_single_claim": 4500,
+    "claim_frequency_trend": "Stable",
+    "recent_claims": [
+        {
+            "claim_id": "CLM_3001",
+            "claim_date": "2024-10-20",
+            "claim_type": "Medical",
+            "claim_amount": 3200,
+            "approved_amount": 3000,
+            "status": "Approved"
+        },
+        {
+            "claim_id": "CLM_3002",
+            "claim_date": "2024-06-10",
+            "claim_type": "Dental",
+            "claim_amount": 1500,
+            "approved_amount": 1500,
+            "status": "Approved"
+        }
+    ],
+    "suspicious_patterns_detected": false,
+    "fraud_score": 18
+}

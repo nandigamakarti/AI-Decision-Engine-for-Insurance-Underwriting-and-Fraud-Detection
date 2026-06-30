@@ -1,0 +1,17 @@
+{
+  "customer_id": "CUST_REG_002",
+  "zip_code": "110001",
+  "city": "Delhi",
+  "state": "DL",
+  "county": "San Francisco",
+  "nearest_hospital_km": 2.5,
+  "hospitals_within_25km": 18,
+  "specialists_available": true,
+  "air_quality_index": 55,
+  "natural_disaster_zone": true,
+  "disaster_type": "Earthquake",
+  "median_income_area": 112000,
+  "crime_rate_per_1000": 18.2,
+  "unemployment_rate": 4.2,
+  "healthcare_cost_index": 165
+}

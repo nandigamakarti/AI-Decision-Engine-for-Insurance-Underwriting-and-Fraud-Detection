@@ -1,0 +1,17 @@
+{
+  "customer_id": "CUST_REG_003",
+  "zip_code": "560001",
+  "city": "Bangalore",
+  "state": "KA",
+  "county": "Miami-Dade",
+  "nearest_hospital_km": 3.8,
+  "hospitals_within_25km": 12,
+  "specialists_available": true,
+  "air_quality_index": 38,
+  "natural_disaster_zone": true,
+  "disaster_type": "Hurricane",
+  "median_income_area": 68000,
+  "crime_rate_per_1000": 22.8,
+  "unemployment_rate": 5.5,
+  "healthcare_cost_index": 128
+}

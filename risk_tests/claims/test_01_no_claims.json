@@ -1,0 +1,13 @@
+{
+    "customer_id": "CUST_CLM_001",
+    "total_claims_count": 0,
+    "claims_last_12mo": 0,
+    "claims_last_36mo": 0,
+    "total_claims_amount": 0,
+    "average_claim_amount": 0,
+    "highest_single_claim": 0,
+    "claim_frequency_trend": "Stable",
+    "recent_claims": [],
+    "suspicious_patterns_detected": false,
+    "fraud_score": 5
+}

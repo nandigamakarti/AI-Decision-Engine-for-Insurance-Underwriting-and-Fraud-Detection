@@ -1,0 +1,70 @@
+{
+    "customer_id": "CUST_MED_010",
+    "conditions": [
+        {
+            "icd10_code": "I63.9",
+            "description": "Cerebral infarction (stroke)",
+            "diagnosed_date": "2023-02-10",
+            "treatment_status": "Active"
+        },
+        {
+            "icd10_code": "I10",
+            "description": "Essential hypertension",
+            "diagnosed_date": "2019-06-12",
+            "treatment_status": "Active"
+        },
+        {
+            "icd10_code": "E11.9",
+            "description": "Type 2 diabetes mellitus",
+            "diagnosed_date": "2018-09-20",
+            "treatment_status": "Active"
+        }
+    ],
+    "current_medications": [
+        {
+            "ndc_code": "00093-7169-01",
+            "name": "Lisinopril",
+            "dosage": "40mg",
+            "frequency": "Daily"
+        },
+        {
+            "ndc_code": "00378-0834-93",
+            "name": "Metformin",
+            "dosage": "1000mg",
+            "frequency": "Twice daily"
+        },
+        {
+            "ndc_code": "00071-0156-23",
+            "name": "Atorvastatin",
+            "dosage": "80mg",
+            "frequency": "Daily"
+        },
+        {
+            "ndc_code": "00093-2063-01",
+            "name": "Aspirin",
+            "dosage": "325mg",
+            "frequency": "Daily"
+        },
+        {
+            "ndc_code": "00597-0195-01",
+            "name": "Clopidogrel",
+            "dosage": "75mg",
+            "frequency": "Daily"
+        },
+        {
+            "ndc_code": "00378-6391-93",
+            "name": "Metoprolol",
+            "dosage": "100mg",
+            "frequency": "Twice daily"
+        }
+    ],
+    "past_procedures": [],
+    "height_cm": 172,
+    "weight_kg": 102,
+    "bmi": 34.5,
+    "blood_pressure_systolic": 168,
+    "blood_pressure_diastolic": 105,
+    "family_history_cancer": true,
+    "family_history_heart_disease": true,
+    "family_history_diabetes": true
+}

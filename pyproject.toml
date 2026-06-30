@@ -1,0 +1,26 @@
+[project]
+name = "uw_risk_assessment_engine"
+version = "0.1.0"
+description = "AI-Assisted Insurance Underwriting PoC - Backend"
+authors = ["Monocept"]
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi",
+    "uvicorn[standard]",
+    "pydantic",
+    "requests",
+    "python-dotenv",
+    "ollama",
+    "pytest>=9.0.1",
+    "sqlalchemy>=2.0.44",
+    "psycopg2-binary>=2.9.11",
+    "alembic>=1.17.2",
+    "pillow>=10.0.0",
+    "numpy>=1.24.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "httpx",
+]

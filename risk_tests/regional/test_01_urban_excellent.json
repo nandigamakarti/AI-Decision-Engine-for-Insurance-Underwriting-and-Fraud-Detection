@@ -1,0 +1,16 @@
+{
+  "customer_id": "CUST_REG_001",
+  "zip_code": "400001",
+  "city": "Mumbai",
+  "state": "MH",
+  "county": "Manhattan",
+  "nearest_hospital_km": 1.2,
+  "hospitals_within_25km": 25,
+  "specialists_available": true,
+  "air_quality_index": 42,
+  "natural_disaster_zone": false,
+  "median_income_area": 95000,
+  "crime_rate_per_1000": 12.5,
+  "unemployment_rate": 3.8,
+  "healthcare_cost_index": 145
+}
